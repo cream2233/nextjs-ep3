@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 6, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 52, "column": 0}, "map": {"version":3,"sources":["file://C%3A/Users/asus/Desktop/nextjs-ep3/src/app/api/users/route.js"],"sourcesContent":["import { users } from '../data.js';\r\n\r\nexport async function GET() {\r\n  return Response.json(users);\r\n}"],"names":[],"mappings":";;;;;;;;;AAEO,eAAe;IACpB,OAAO,SAAS,IAAI,CAAC;AACvB","debugId":null}}]
+}
