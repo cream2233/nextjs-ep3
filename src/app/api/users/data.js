@@ -1,0 +1,38 @@
+export const users = [
+    {
+      email: 'mokia@gmail.com',
+      university: 'กำแพงเพชร',
+      firstName: 'มกรา',
+      lastName: 'คม',
+      major: 'โยธา',
+      phone: '055-5555-555',
+      expire: '23/05/2023',
+    },
+    {
+      email: 'kumpea@gmail.com',
+      university: 'กำแพงเพชร',
+      firstName: 'กุมภา',
+      lastName: 'พันธ์',
+      major: 'ไฟฟ้ากำลัง',
+      phone: '055-5555-555',
+      expire: '06/06/2005',
+    },
+    {
+      email: 'meena@gmail.com',
+      university: 'กำแพงเพชร',
+      firstName: 'มีนา',
+      lastName: 'คม',
+      major: 'เคมี',
+      phone: '055-5555-555',
+      expire: '07/07/2005',
+    },
+    {
+      email: 'masa@gmail.com',
+      university: 'กำแพงเพชร',
+      firstName: 'เมษา',
+      lastName: 'ยน',
+      major: 'สิ่งแวดล้อม',
+      phone: '055-5555-555',
+      expire: '08/08/2005',
+    },
+  ]
